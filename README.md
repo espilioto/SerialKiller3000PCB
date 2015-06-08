@@ -7,8 +7,8 @@ I know having all the revisions saved is overkill, but it's nice seeing my progr
 You can also see the point where I deemed this project worthy enough to send to a PCB [manufacturing company].
 (Also, yes, autorouter for the most part. Don't hate me!)
 
-The board turned out really nice, even though I would like to enlarge the logo on the back a bit, 
-add another decoupling cap next to the 12 volt input header and some other little things.
+The board turned out really nice, even though I will enlarge the logo on the back a bit, 
+add another decoupling cap next to the 12 volt input header and make some other minor changes in the next version.
 
 Renders made with [EagleUp].
 
